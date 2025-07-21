@@ -79,8 +79,8 @@
       align-items: center;
       justify-content: center;
       flex-wrap: nowrap;
-      gap: 3rem;
-      padding: 0rem 2rem 4rem;
+      gap: 6rem;
+      padding: 3rem 2rem 4rem;
       background: radial-gradient(circle at top left, #34053C, #34053C, #D38694);
       color: #fff;
       text-align: left;
